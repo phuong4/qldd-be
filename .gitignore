@@ -1,0 +1,32 @@
+# Tệp và thư mục được tạo bởi IntelliJ IDEA
+.idea/
+
+# Thư mục target của Maven (chứa các file tạm thời và đầu ra của build)
+target/
+
+# Các file log
+*.log
+
+# Các file .class được tạo ra bởi Java
+*.class
+
+# Thư mục /out của IntelliJ IDEA
+/out/
+
+# Các file .iml được tạo ra bởi IntelliJ IDEA
+*.iml
+
+# Các file .iws được tạo ra bởi IntelliJ IDEA
+*.iws
+
+# Các file .ipr được tạo ra bởi IntelliJ IDEA
+*.ipr
+
+# Thư mục .mvn tự động được tạo bởi Maven Wrapper
+.mvn/
+
+# Thư mục /build của Maven
+/build/
+
+# Thư mục /logs của Maven
+/logs/
