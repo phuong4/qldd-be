@@ -13,5 +13,5 @@ public class KdNtXlscDto {
     private Integer soLuongNM;
     private Integer soLuongTBA;
     private Integer soLuongRGL;
-    private Date thang;
+    private String thang;
 }

@@ -13,5 +13,5 @@ public class NmdTbaRglDto {
     private Integer soLuongKD;
     private Integer soLuongNT;
     private Integer soLuongXLSC;
-    private Date thang;
+    private String thang;
 }
