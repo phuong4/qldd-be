@@ -30,3 +30,6 @@ target/
 
 # Thư mục /logs của Maven
 /logs/
+
+# Thư mục tạo bởi VSCode
+.vscode/
